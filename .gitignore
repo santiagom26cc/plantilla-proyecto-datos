@@ -1,0 +1,9 @@
+# Credenciales: nunca al repositorio
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
