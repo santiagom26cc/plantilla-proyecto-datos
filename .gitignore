@@ -3,6 +3,9 @@
 *.env
 !.env.example
 
+# Datos brutos: se recrean con extraer.py y no se suben
+data/
+
 # Python
 __pycache__/
 .venv/
